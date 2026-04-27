@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> **Windows 11 / Intel CPU Users:** I have optimized this fork for local execution without a GPU. Please follow the [Windows Setup Guide](./WINDOWS_GUIDE.md) for environment configuration and performance tuning. -DG
+> **Windows 11 / Intel CPU Users:** I have optimized this fork for local execution without a GPU. Please follow the [Windows Setup Guide](./WINDOWS_GUIDE.md) for environment configuration and performance tuning. This fork includes custom CSS fixes for Streamlit UI transparency, optimized chunking parameters for policy document retrieval, and a fully local environment configuration (no external APIs required). -DG
 
 
 # 📝 Build Your Local RAG System with LLMs
