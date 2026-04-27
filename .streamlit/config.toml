@@ -1,0 +1,4 @@
+[theme]
+base="light"
+primaryColor="#d33682"
+# Note: Forcing light theme as default

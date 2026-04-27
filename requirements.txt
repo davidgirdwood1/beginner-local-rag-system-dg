@@ -4,7 +4,9 @@ pypdf2==3.0.1
 pytesseract==0.3.13
 pillow==10.4.0
 opensearch-py==2.7.1
-torch==2.4.1
+# torch==2.4.1
+# Note: For CPU, run this manually:
+# pip install torch==2.4.1 --index-url https://download.pytorch.org/whl/cpu
 numpy==2.1.2
 requests==2.32.3
 ollama==0.3.3
