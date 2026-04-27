@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **Windows 11 / Intel CPU Users:** I have optimized this fork for local execution without a GPU. Please follow the [Windows Setup Guide](./WINDOWS_GUIDE.md) for environment configuration and performance tuning. -DG
+
+
 # 📝 Build Your Local RAG System with LLMs
 
 Welcome to the **Local LLM-based Retrieval-Augmented Generation (RAG) System**! This repository provides the full code to build a private, offline RAG system for managing and querying personal documents locally using a combination of OpenSearch, Sentence Transformers, and Large Language Models (LLMs). Perfect for anyone seeking a privacy-friendly solution to manage documents without relying on cloud services.
