@@ -81,6 +81,8 @@ To verify the RAG pipeline is correctly retrieving local data rather than relyin
 - **Query**: Ask about the specific rule.
 - **Result**: The system should cite the specific text chunk and page number from your uploaded PDF.
 
+![Upload Doc](./demo_images_dg/rag_upload_docs_dg_1.png)
+![Chatbot with Rag](./demo_images_dg/rag_chat_with_rag_2.png)
 ---
 
 Developed as a portfolio piece to demonstrate full-stack AI/ML integration on standard consumer hardware.
